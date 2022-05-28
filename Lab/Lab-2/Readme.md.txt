@@ -14,6 +14,3 @@
 
 *Hover 🙂 hover selector is used. to select elements when you mouse over them
 
-##Screenshot
-
-![App Screenshot](./roshandon.png)
